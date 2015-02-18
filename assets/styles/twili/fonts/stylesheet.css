@@ -1,9 +1,32 @@
 @font-face {
+    font-family: 'Sail';
+    src: url('Sail-Regular.ttf') format('truetype');        
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('Cabin-Regular.ttf') format('truetype');        
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'CabinBold';
+    src: url('Cabin-Bold.ttf') format('truetype');        
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
     font-family: 'open_sansregular';
     src: url('OpenSans-Regular.eot');
     src: url('OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
          url('OpenSans-Regular.svg#open_sansregular') format('svg'),
-         url('OpenSans-Regular.woff') format('woff'),
          url('OpenSans-Regular.ttf') format('truetype');        
     font-weight: normal;
     font-style: normal;
@@ -15,7 +38,6 @@
     src: url('OpenSans-Light.eot');
     src: url('OpenSans-Light.eot?#iefix') format('embedded-opentype'),
          url('OpenSans-Light.svg#open_sanslight') format('svg'),
-         url('OpenSans-Light.woff') format('woff'),
          url('OpenSans-Light.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -27,7 +49,6 @@
     src: url('OpenSans-Italic.eot');
     src: url('OpenSans-Italic.eot?#iefix') format('embedded-opentype'),
          url('OpenSans-Italic.svg#open_sansitalic') format('svg'),
-         url('OpenSans-Italic.woff') format('woff'),
          url('OpenSans-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -39,7 +60,6 @@
     src: url('OpenSans-Bold.eot');
     src: url('OpenSans-Bold.eot?#iefix') format('embedded-opentype'),
          url('OpenSans-Bold.svg#open_sansbold') format('svg'),
-         url('OpenSans-Bold.woff') format('woff'),
          url('OpenSans-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -51,7 +71,6 @@
     src: url('OpenSans-Semibold.eot');
     src: url('OpenSans-Semibold.eot?#iefix') format('embedded-opentype'),
          url('OpenSans-Semibold.svg#open_sanssemibold') format('svg'),
-         url('OpenSans-Semibold.woff') format('woff'),
          url('OpenSans-Semibold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
