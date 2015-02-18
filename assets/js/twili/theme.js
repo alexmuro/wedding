@@ -153,7 +153,6 @@ function initialise_document_ready_functions()
      */
     $(window).scroll(function()
     { 
-        console.log('scrolling');
         // Update Active Sections on Scroll (do not use function when menu link was clicked - as this already has a link to the scroll function) -- (do not fire function on mobile viewports)
         if (!$("#main-content").hasClass("same_page_link_in_action") && !jQuery.browser.mobile )
         {

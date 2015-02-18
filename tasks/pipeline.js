@@ -16,6 +16,7 @@
 //  to change `assets/styles/importer.less` instead.)
 var cssFilesToInject = [
   //'styles/white/application.css'
+  '/styles/twile/fonts/stylesheet.css',
   '/bower_components/bootstrap/dist/css/bootstrap.css',
   '/bower_components/bootstrap/dist/css/bootstrap-theme.css',
   '/styles/twili/owl.carousel.css',
