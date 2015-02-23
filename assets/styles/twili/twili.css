@@ -234,17 +234,17 @@ table {
 }
 
 .btn-outline-inverse {
-  color: #fff;
+  color: #fae9de;
   background-color: transparent;
-  border-color: #fff;
+  border-color: #fae9de;
 }
 .btn-outline-inverse:hover,
 .btn-outline-inverse:focus,
 .btn-outline-inverse:active {
   color: #000;
   text-shadow: none;
-  background-color: #fff;
-  border-color: #fff;
+  background-color: #fae9de;
+  border-color: #fae9de;
 }
 
 /* ====================================================
@@ -1182,11 +1182,11 @@ h6 {
 .form-style input.text-field,
 .form-style textarea {
     background:rgba(0,0,0,0.15);
-    border-color:#fff;
+    border-color:#fae9de;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     border-radius: 0;  
-    color:#fff;
+    color:#fae9de;
     height:34px;
     -webkit-box-shadow: none;
     -moz-box-shadow:    none;
@@ -1199,15 +1199,15 @@ h6 {
 .form-style input.text-field:-moz-placeholder,
 .form-style input.text-field::-moz-placeholder,
 .form-style input.text-field:-ms-input-placeholder {
-    color:#fff !important;
+    color:#fae9de !important;
     font-weight: bold;
 }
 
 .form-style input.text-field:focus,
 .form-style textarea:focus {
     color:#000;
-    background:#fff;
-    border-color:#fff;
+    background:#fae9de;;
+    border-color:#fae9de;;
     -webkit-box-shadow: none;
     -moz-box-shadow:    none;
     box-shadow:         none;  
@@ -1219,7 +1219,7 @@ h6 {
 
 .form-style .alert {
     display: none;
-    background:#fff;
+    background:#fae9de;;
     color:#a10000;
     font-size: 0.7em;
     font-family: 'open_sansbold', sans-serif;
@@ -1273,25 +1273,25 @@ h6 {
 /* Placeholder Styling */
 
 *::-webkit-input-placeholder {
-    color: #fff !important;
+    color: #fae9de !important;
     font-weight: bold;
     -webkit-transition: all 0.4s;
     transition: all 0.4s;       
 }
 *:-moz-placeholder {
-    color: #fff !important;
+    color: #fae9de !important;
     font-weight: bold;
     -webkit-transition: all 0.4s;
     transition: all 0.4s;       
 }
 *::-moz-placeholder {
-    color: #fff !important;
+    color: #fae9de !important;
     font-weight: bold;
     -webkit-transition: all 0.4s;
     transition: all 0.4s;       
 }
 *:-ms-input-placeholder {
-    color: #fff !important;
+    color: #fae9de !important;
     font-weight: bold;
     -webkit-transition: all 0.4s;
     transition: all 0.4s;       
@@ -1699,7 +1699,7 @@ h6 {
     padding: 9px 3% 15px;
     background: #000;
     background: rgba(0,0,0,0.3);
-    color: #fff;
+    color:#fae9de;
     font-size: 0.9em;
     line-height: 1.1;
     text-align: center;
