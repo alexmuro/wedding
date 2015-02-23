@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    font-family:'londonmmregular', sans-serif;
+    font-family:'petitamediumregular', sans-serif;
     color:#fae9de;/*183a4c;*//*#fff;*/
     background: #000;
     width:100%;
@@ -39,7 +39,7 @@ a:hover {
 p a {
     padding-bottom:1px;
     border-bottom:1px dotted rgba(255,255,255,0.4);
-    font-family: 'londonmmregular', sans-serif;
+    font-family: 'petitamediumregular', sans-serif;
 }
 p a:hover {
     border-color:#fff;
@@ -413,7 +413,7 @@ table {
     list-style: none;
     margin:0;
     padding:0;
-    font-family: 'londonmmregular', sans-serif;
+    font-family: 'petitamediumregular', sans-serif;
     font-size:0.86em;
     line-height:1.05;
     text-transform: lowercase;
@@ -443,7 +443,7 @@ table {
 }
 
 #left-sidebar #main-menu > li.menu-item.active > * {
-    font-family: 'londonmmregular', sans-serif;
+    font-family: 'petitamediumregular', sans-serif;
     font-weight: bold;
     background:rgba(0,0,0,0.15);
 }
@@ -588,7 +588,7 @@ table {
     margin:20px 5%;
     overflow: visible;
     min-height:1px;
-    font-family: 'londonmmregular', sans-serif;
+    font-family: 'petitamediumregular', sans-serif;
     -webkit-transform: translate3d(0,0,0);
 }
 
@@ -1244,7 +1244,7 @@ h6 {
 
 #main-content .contact-details {
     font-size: 0.9em;
-    font-family: 'londonmmregular', sans-serif;
+    font-family: 'petitamediumregular', sans-serif;
 }
 
     @media (min-width: 768px) {
