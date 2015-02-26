@@ -1634,7 +1634,6 @@ h6 {
 }
 
 .modal .modal-content .modal-body {
-    padding:15px 20px;
     text-align: center;
 }
 
@@ -1648,7 +1647,7 @@ h6 {
             right:2px;
         }          
         .modal .modal-content .modal-body {
-            padding:30px 60px;
+           
         }      
     }
     @media (min-width: 992px) { 
@@ -1665,10 +1664,10 @@ h6 {
             right:-35px;
         }                
         .modal .modal-content .modal-body {
-            padding:55px 90px;
+          
         }
         .modal.full-size .modal-content .modal-body {
-            padding:30px 60px;
+           
         }                   
     }
     @media (min-width: 1200px) {  
