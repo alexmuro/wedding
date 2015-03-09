@@ -36,7 +36,7 @@ module.exports = {
 		// setup e-mail data with unicode symbols
 		var mailOptions = {
 		    from: from+'✔ <request@claireandalexmuro.com>', // sender address
-		    to: 'clare.k.luber@gmail.com, am3081@gmail.com', // list of receivers
+		    to: 'claire.k.luber@gmail.com, am3081@gmail.com', // list of receivers
 		    subject: 'Wedding Song Request', // Subject line
 		    text: text+'✔', // plaintext body
 		    html: '<b>'+text+'✔</b>' // html body
