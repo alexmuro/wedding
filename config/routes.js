@@ -14,6 +14,7 @@ module.exports.routes = {
   //-------------------------------
 
   '/': 'LandingController.index', //Landing View
+  '/sendEmail' : 'LandingController.sendmail',
   //'/': 'LandingController.flux', //Main Flux App
 
   //-------------------------------

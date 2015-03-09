@@ -499,6 +499,9 @@ function validate_and_submit_forms(b) {
                 data: $(this).serialize(),
                 dataType: "html",
                 success: function(k) {
+                    
+                    k = JSON.parse(k).responseText;
+                    console.log('success',k);
                     c.find(".form-loader").fadeOut("fast");
                     var l = (k == "success") ? true : false;
                     var h = (k == "captcha") ? false : true;

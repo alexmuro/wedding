@@ -20,11 +20,7 @@ module.exports.policies = {
   	// (`true` allows public access)
   	// '*': true,
 
-  	'*': ["flash","sessionAuth"],
-	User: {
-		'login': "flash",
-		'auth':"flash",
-	},
+  	'*': true,//["flash","sessionAuth"],
 	Landing:{
 		'index':"flash"
 	}
