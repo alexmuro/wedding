@@ -23,6 +23,14 @@ module.exports = {
 	index:function(req,res){
 		res.view({})
 	},
+
+	bus:function(req,res){
+		res.view({})
+	},
+	
+	album:function(req,res){
+		res.view({})
+	},
 	
 	flux:function(req,res){
 		res.view({})
